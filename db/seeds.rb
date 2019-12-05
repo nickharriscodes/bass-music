@@ -108,7 +108,7 @@ Track.create(name: "Let the Groove Get In", minutes: 8, album_id: a7.id)
 Track.create(name: "Mirrors", minutes: 9, album_id: a7.id)
 Track.create(name: "Blue Ocean Floor", minutes: 8, album_id: a7.id)
 
-a8 = Album.create(cover: "../app/assets/images/HNH.jpg", title: "Hope and Hindsight", artist: "Ricky Mirage")
+a8 = Album.create(cover: "https://f4.bcbits.com/img/a1725523028_10.jpg", title: "Hope and Hindsight", artist: "Ricky Mirage")
 Track.create(name: "Way Out", minutes: 3, album_id: a8.id)
 Track.create(name: "Back To You", minutes: 3, album_id: a8.id)
 Track.create(name: "Kissing You", minutes: 4, album_id: a8.id)
